@@ -7,11 +7,12 @@ Sentinel-1 for the monitoring of Soil Moisture and groundwater level monitoring 
 ## Input
 
 * A defined boundary/location of interest. 
-* Preprocessed Ground Range Level-1 Sentinel-1 scenes with a 10 m spatial resolution. VV polarized images over VH polarized images.
+* A time series of preprocessed Ground Range Level-1 Sentinel-1 scenes with a 10 m spatial resolution. VV polarized images over VH polarized images.
 * Groundwater level dataset temporally matching the Sentinel-1 incidences. At least a 5-year coverage of Daily groundwater measurements is preferred.
 
 ## Output
-* Predicted groundwater level and soil moisture time series
+* Estimated groundwater level and
+* Soil moisture time series
 * Statistical accuracy metrics for the performance evaluation
 
 ![Internship_objective](https://github.com/user-attachments/assets/9e875fbe-d9ff-4454-b265-b103109308ba)
