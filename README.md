@@ -11,6 +11,7 @@ Sentinel-1 for the monitoring of Soil Moisture and groundwater level monitoring 
 * Groundwater level dataset temporally matching the Sentinel-1 incidences. At least a 5-year coverage of Daily groundwater measurements is preferred.
 
 ## Output
-* 
+* Predicted groundwater level and soil moisture time series
+* Statistical accuracy metrics for the performance evaluation
 
 ![Internship_objective](https://github.com/user-attachments/assets/9e875fbe-d9ff-4454-b265-b103109308ba)
