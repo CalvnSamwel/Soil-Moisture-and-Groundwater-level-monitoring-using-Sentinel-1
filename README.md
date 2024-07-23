@@ -15,4 +15,4 @@ Sentinel-1 for the monitoring of Soil Moisture and groundwater level monitoring 
 * Soil moisture time series
 * Statistical accuracy metrics for the performance evaluation
 
-![Internship_objective](https://github.com/user-attachments/assets/9e875fbe-d9ff-4454-b265-b103109308ba)
+![image](https://github.com/user-attachments/assets/8ed8287c-55f1-4c1f-b043-c7b23adf120f)
