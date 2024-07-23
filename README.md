@@ -1,6 +1,6 @@
 # Soil Moisture and Groundwater-level-monitoring-using-Sentinel-1-
 
-Sentinel-1 for the monitoring of Soil Moisture and groundwater level monitoring prepared by Calvin Samwel Swai Based on the Internship program at Vitens (October 2023 to April 2024) Supervised by Suhyb Salama, Rogier van der Velde, and Tom Hoogland. 
+Sentinel-1 for the monitoring of Soil Moisture and groundwater level monitoring prepared by Calvin Samwel Swai as a part of the Internship program at Vitens (October 2023 to April 2024) Supervised by Suhyb Salama, Rogier van der Velde, and Tom Hoogland. 
 
 **Project Objective**: To evaluate the potential of remote sensing techniques in providing estimates of soil moisture content and groundwater dynamics. 
 Case study: Witharen.
